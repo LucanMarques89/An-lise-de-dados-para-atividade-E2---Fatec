@@ -39,15 +39,15 @@ Estou entrando nesse mundo da tecnologia voltada a logística agora, não tenho 
 
 <!-- ## Obrigado por acessar noso GitHub! :sparkles: -->
 <p align="center">
-<img alt="Banner de agredecimento" src="./Esphera Logitech (1280 x 640).png" />
+<img alt="Banner de agredecimento" src="./Print Power BI.png" />
 </p>
 <!-- ## Obrigado por acessar noso GitHub! :sparkles: -->
 <p align="center">
-<img alt="Banner de agredecimento" src="./Esphera Logitech (1280 x 640).png" />
+<img alt="Banner de agredecimento" src="./Print Power BI 02.png" />
 </p>
 <!-- ## Obrigado por acessar noso GitHub! :sparkles: -->
 <p align="center">
-<img alt="Banner de agredecimento" src="./Esphera Logitech (1280 x 640).png" />
+<img alt="Banner de agredecimento" src="./Print Power BI 03.png" />
 </p>
 
 
@@ -55,5 +55,5 @@ Estou entrando nesse mundo da tecnologia voltada a logística agora, não tenho 
 
 <!-- ## Obrigado por acessar noso GitHub! :sparkles: -->
 <p align="center">
-<img alt="Banner de agredecimento" src="./Esphera Logitech (1280 x 640).png" />
+<img alt="Banner de agredecimento" src="./Print Power Automate.png" />
 </p>
