@@ -1,6 +1,6 @@
 <!-- ## Ola, eu sou a Lucan Marques, muito prazer! :sparkles: -->
 <p align="center">
-<img alt="Banner de boas vindas" src="./Lucan (1).png" />
+<img alt="Banner de boas vindas" src="./Bunner Git01.png" />
 </p>
 
 # Lucan Marques
@@ -14,3 +14,12 @@ Estou entrando nesse mundo da tecnologia voltada a logística agora, não tenho 
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucan-marques-5a94294b/)
 
+# Atividades realizadas 
+
+## Powerpoint
+
+## Excel
+
+## Power BI
+
+## Power Automate
