@@ -32,7 +32,7 @@ Estou entrando nesse mundo da tecnologia voltada a logística agora, não tenho 
 
 <!-- ## Obrigado por acessar noso GitHub! :sparkles: -->
 <p align="center">
-<img alt="Banner de agredecimento" src="./Print Excel.png" />
+<img alt="Banner de agredecimento" src="./Print planilha Horas_aulas.png" />
 </p>
 
 ## Power BI
