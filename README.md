@@ -16,10 +16,44 @@ Estou entrando nesse mundo da tecnologia voltada a logística agora, não tenho 
 
 # Atividades realizadas 
 
+<!-- ## Obrigado por acessar noso GitHub! :sparkles: -->
+<p align="center">
+<img alt="Banner de agredecimento" src="./Esphera Logitech (1280 x 640).png" />
+</p>
+
 ## Powerpoint
+
+<!-- ## Obrigado por acessar noso GitHub! :sparkles: -->
+<p align="center">
+<img alt="Banner de agredecimento" src="./Esphera Logitech (1280 x 640).png" />
+</p>
 
 ## Excel
 
+<!-- ## Obrigado por acessar noso GitHub! :sparkles: -->
+<p align="center">
+<img alt="Banner de agredecimento" src="./Esphera Logitech (1280 x 640).png" />
+</p>
+
 ## Power BI
 
+<!-- ## Obrigado por acessar noso GitHub! :sparkles: -->
+<p align="center">
+<img alt="Banner de agredecimento" src="./Esphera Logitech (1280 x 640).png" />
+</p>
+<!-- ## Obrigado por acessar noso GitHub! :sparkles: -->
+<p align="center">
+<img alt="Banner de agredecimento" src="./Esphera Logitech (1280 x 640).png" />
+</p>
+<!-- ## Obrigado por acessar noso GitHub! :sparkles: -->
+<p align="center">
+<img alt="Banner de agredecimento" src="./Esphera Logitech (1280 x 640).png" />
+</p>
+
+
 ## Power Automate
+
+<!-- ## Obrigado por acessar noso GitHub! :sparkles: -->
+<p align="center">
+<img alt="Banner de agredecimento" src="./Esphera Logitech (1280 x 640).png" />
+</p>
